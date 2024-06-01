@@ -1,3 +1,5 @@
-Gall Midge
-Healthy
-Sooty Mould
+salmonella
+healthy
+coccidiosis
+newcastle
+unknown
